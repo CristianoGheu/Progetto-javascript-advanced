@@ -13,4 +13,4 @@ Per il button  ho fatto un addEventListener per caricare altre 10 news.
 
 Per il css ho semplicemente sistemato i testi e il button per essere un pochino piu gradevoli da vedere.
 
-link applicazione= https://progetto-javascript-adva-d415c.web.app
+link applicazione= progetto-javascript-adva-e4724.web.app
