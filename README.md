@@ -9,6 +9,8 @@ Ho creato un div con id news-list per poter con javascript fare un getElementByI
 Ho fatto un async function per il recupero delle ultime dieci news e per mostrarli in manieri dinamica con la costante newsItem che crea un div con le informazione(titolo, data, link) delle news recuperate. 
 Con un appendChild la costante newsItem si inserisce alla costante newsList.
 
+Con la funzione .get della libreria Lodash faccio un controllo dei dati che mi servono come il titol, la data e il link delle news che ricevo dalla API.
+
 Per il button  ho fatto un addEventListener per caricare altre 10 news.
 
 Per il css ho semplicemente sistemato i testi e il button per essere un pochino piu gradevoli da vedere.
