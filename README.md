@@ -1,6 +1,6 @@
 # Progetto-javascript-advanced
 
-per questo progetto ho fatto un'applicazione che mi da le ultime 10 news grazie all'uso delle API di Hacker News e con un button mi carica altre 10 news.
+per questo progetto ho sviluppato un'applicazione che mi da le ultime 10 news grazie all'uso delle API di Hacker News e con un button mi carica altre 10 news.
 
 Per questo progetto ho creato un file index.html e una cartella assets dove ho messo il file script.js e il file style.css
 
